@@ -1,0 +1,15 @@
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\bin\Debug\net6.0\Selection_Statement_Exercise.exe
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\bin\Debug\net6.0\Selection_Statement_Exercise.deps.json
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\bin\Debug\net6.0\Selection_Statement_Exercise.runtimeconfig.json
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\bin\Debug\net6.0\Selection_Statement_Exercise.dll
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\bin\Debug\net6.0\Selection_Statement_Exercise.pdb
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.csproj.AssemblyReference.cache
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.AssemblyInfoInputs.cache
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.AssemblyInfo.cs
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.dll
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\refint\Selection_Statement_Exercise.dll
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.pdb
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\Selection_Statement_Exercise.genruntimeconfig.cache
+C:\Users\Extre\OneDrive\Desktop\repos\Selection_Statement_Exercise\Selection_Statement_Exercise\obj\Debug\net6.0\ref\Selection_Statement_Exercise.dll
